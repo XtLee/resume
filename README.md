@@ -41,7 +41,7 @@ Github：https://github.com/XtLee/Note
 
 
 
-##专业技能
+## 专业技能
 
  1.熟练掌握HTML和CSS，能够书写语义合理、结构清晰、易于维护的页面结构；
  2.深入理解JavaScript高级特性（继承、原型链等），了解ES6新特性；
